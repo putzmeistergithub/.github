@@ -1,4 +1,4 @@
-# 🏗️ Welcome to the Putzmeister GitHub Organization
+# Welcome to the Putzmeister GitHub Organization
 
 This organization serves as the official home for **Putzmeister GitHub projects, code storage, and internal development tooling**. It is used for collaborative software engineering efforts across teams — from embedded diagnostics to cloud services.
 
