@@ -34,7 +34,11 @@ This makes Copilot Chat an incredibly powerful assistant — capable of supporti
 
 **Michael Ackermann**  
 `michael.ackermann@putzmeister.com`  
-For any access issues, Copilot requests, or organizational questions — feel free to reach out.
+For any technical issues, access, or general questions.
+
+**Marcos Bischoff**  
+`marcos.bischoff@putzmeister.com`  
+For copilot access requests or organizational questions.
 
 ---
 
