@@ -16,6 +16,8 @@ Copilot Enterprise offers enhanced productivity with:
 
 > ✅ **To request Copilot Enterprise**, contact the org administrator listed below.
 
+> 📣 GitHub usernames must be clearly traceable to the corresponding employee. Therefore, the username shall contain a recognizable part of the user's real name (e.g., first name, last name, or a combination of both). Pseudonyms, nicknames, or purely generic identifiers are not permitted.
+
 ---
 
 ## 🧠 Copilot Chat + Knowledge Bases
