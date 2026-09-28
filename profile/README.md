@@ -40,6 +40,8 @@ For any technical issues, access, or general questions.
 
 **Marcos Bischoff**  
 `marcos.bischoff@putzmeister.com`  
+**alexander Steinwandel**  
+`alexander.steinwandel@putzmeister.com`  
 For copilot access requests or organizational questions.
 
 ---
